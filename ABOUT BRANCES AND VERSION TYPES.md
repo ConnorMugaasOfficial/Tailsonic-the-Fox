@@ -19,5 +19,5 @@ One more thing I should point out is the fact that both versions will still show
 
 So... yeah! That's all for now! See you again soon!
 
-#### Copyright Project Tailsonic Team, all rights reserved.
+#### Copyright 2025 Project Tailsonic Team, all rights reserved.
 
