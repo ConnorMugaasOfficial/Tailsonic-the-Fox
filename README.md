@@ -13,6 +13,8 @@ First of all, you need to have a copy of Python 3.13, which you can find [here.]
 
 Second, even though not **required**, the Credits menu will say **PyCharm** was used to edit the code. For a more user-friendly experience when (and if) you guys want to edit the code, it is at least recommended.
 
+**UPDATE: PyCharm is no longer being used with the code development, and VS Code (Visual Studio Code) is now recommended, and for Windows users, it can be found on the Microsoft Store.**
+
 ...oh! One more thing! When you install Python, make sure you install Pygame as well, through the Python interpreter. This is required to run the game, as it was made using Pygame **inside** of Python. For those who don't know how to install it, put this into the interpreter:
 
 ```py
