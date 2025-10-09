@@ -2,6 +2,8 @@
 
 **DISCLAIMER!!! As of this update, the "build" and "build-release" source directories are stuck on the "main" branch. I've been trying to figure out how to fix this, but at this point TSTF's first version will get delayed so I'm just gonna leave it. :/**
 
+**DISCLAIMER DISCLAIMER!!!!!! As of this /latest/ update, both directories have successfully been moved to their corresponding branches. /main will still be used, but only for notices and stuff like that.
+
 In case you /might/ be aware, I just created two new brances--developer-builds and release-builds.
 
 Now, you might be wondering... well, what's the difference?
