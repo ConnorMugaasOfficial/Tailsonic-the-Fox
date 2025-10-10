@@ -3,9 +3,9 @@ Welcome, one and all, to the **official** repository for Project Tailsonic's mai
 
 This is where you will find the official **release** and **developer** versions of the game! Each one will be separated into their own branches.
 
-Unfortunately, there's not much here, as the releases are yet to be finished for the first stable build.
+As of October 10th, 2025, the first official Developer build (Release build soon to follow) of Tailsonic the Fox has officially released.
 
-However, I can give you some install instructions for when they **do** release!
+Here are some basic install instructions for required/recommended items.
 
 ### Install Instructions
 
