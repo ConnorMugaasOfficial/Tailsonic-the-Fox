@@ -27,4 +27,4 @@ This should automatically install Pygame within the Python interpreter.
 
 **If you want early access to the developer/release builds, shoot me an email saying that you'd like to playtest.**
 
-#### Copyright 2025 Project Tailsonic Team, all rights reserved.
+#### Copyright 2025-2026 Project Tailsonic Team, all rights reserved.
