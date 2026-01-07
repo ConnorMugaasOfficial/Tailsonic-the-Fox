@@ -15,6 +15,8 @@ Second, even though not **required**, the Credits menu will say **PyCharm** was 
 
 **UPDATE: PyCharm is no longer being used with the code development, and VS Code (Visual Studio Code) is now recommended, and for Windows users, it can be found on the Microsoft Store.**
 
+_**FINAL UPDATE REGARDING PYCHARM: As of January 6th, 2026 [The 0.1.37x release], PyCharm has not been used at all, and is no longer being recommended. It's not because of PyCharm itself, but rather me just switching over to something that doesn't require a subscription and/or purchase. Thanks for reading.**_
+
 ...oh! One more thing! When you install Python, make sure you install Pygame as well, through the Python interpreter. This is required to run the game, as it was made using Pygame **inside** of Python. For those who don't know how to install it, put this into the interpreter:
 
 ```py
