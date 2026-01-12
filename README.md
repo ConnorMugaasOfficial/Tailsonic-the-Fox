@@ -11,6 +11,8 @@ Here are some basic install instructions for required/recommended items.
 
 First of all, you need to have a copy of Python 3.13, which you can find [here.](https://www.python.org/downloads/release/python-3137/)
 
+Slight update with the Python version: I did a test the other day with Python 3.11, and can safely say that the game will also run in this version. So, versions 3.11-3.13 of Python can be used.
+
 Second, even though not **required**, the Credits menu will say **PyCharm** was used to edit the code. For a more user-friendly experience when (and if) you guys want to edit the code, it is at least recommended.
 
 **UPDATE: PyCharm is no longer being used with the code development, and VS Code (Visual Studio Code) is now recommended, and for Windows users, it can be found on the Microsoft Store.**
