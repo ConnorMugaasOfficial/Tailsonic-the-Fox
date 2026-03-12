@@ -17,6 +17,15 @@ These are the main four that was mentioned a while ago. Now, onto the extra stuf
   Bug/Programming Fixes:
     Fixing the lack of false statements messing up the recursion limit (example: "main_running = False"
     Fixing the lack of SaveState mentions when exiting the game on certain classes, which caused the changed background color to not save [I think. If this already worked in the Customization menu then it's just something that might not really matter as much]
+    ADDITIONAL UPDATE:
+      The way all text surfaces (including buttons) are labeled is getting fixed to allow apostrophes ('). This was kinda messy earlier on as any spot I had in the text that needed this symbol would've been labeled as "[apost]".
+      For example, here's an example code block:
+        s64charfca = my_seventh_font.render( 'First canon appearance: Connor[apost]s Gaming Channel (Thumbnails)', True, (255, 255, 255))
+        This is what this line currently looks like. However, here's what it'll look like fixed:
+        s64charfca = my_seventh_font.render("First canon appearance: Connor's Gaming Channel (Thumbnails)", True, (255, 255, 255))
+      This is primarily because of how I noticed the image definitions were done, because those used ""at\file\name\directory\here.whatev"".
+      Google also helped me with this after asking it this exact question.
+      Oh! And also, all text surfaces that start slightly to the right will be pushed back to minimize space, and make everything look a bit cleaner. That is all I had to say. _OuO_
   Updated implementations:
     Finally adding stuff to the Music menu from the Vs. Tailsonic Menu
     The Credits menu will be getting an update to show proper credits for characters in the Character Viewer that weren't mine
