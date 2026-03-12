@@ -1,0 +1,55 @@
+Hey guys, Connor here! Just wanted to provide some new updates and details for 0.1.3.95x, our next now /major/ update.
+
+Just as a disclaimer, this update will NOT include Story Mode's main inclusion. Story Mode will still be locked for the time being.
+
+But I can still give out some other details about this update, including things already given earlier.
+
+So, here's the full update log of what I currently have...
+
+Tailsonic the Fox V0.1.3.95x includes:
+  The Customization menu (replacing the bg color key system, and is different in color appearance in both Developer and Release builds)
+  The addition of the Release-exclusive background color change (mainly it being more brighter, but to also coinside with finally using the official background color (2469ff))
+  A new orgnaization system for surface listings in all classes (In this far in development, it does NOT apply to any buttons. Just static listings.)
+  Sounds that will play when going through menus (Cursor ONLY. Does not work on keyboard controls.)
+  Added the spritesheet for the new Loading animation, but is not used in the code anywhere
+
+These are the main four that was mentioned a while ago. Now, onto the extra stuff that this update will also include:
+  Bug/Programming Fixes:
+    Fixing the lack of false statements messing up the recursion limit (example: "main_running = False"
+    Fixing the lack of SaveState mentions when exiting the game on certain classes, which caused the changed background color to not save [I think. If this already worked in the Customization menu then it's just something that might not really matter as much]
+  Updated implementations:
+    Finally adding stuff to the Music menu from the Vs. Tailsonic Menu
+    The Credits menu will be getting an update to show proper credits for characters in the Character Viewer that weren't mine
+  Character Viewer Updates:
+    Adding three new characters: Natsuki, Sayori, and Yuri, while also giving them and Monika's page a showview label update, showing actual character images rather than the placeholder image
+    Each character page will be getting a new option to show the icons they use in Vs. Tailsonic, if applicable and already exist. If not, the icon to view them will still be there, just locked
+    Monika's page will be getting a bigger update, with the option to change outfits, as this was a part of another programming side-project I was working on for sprite viewers [These might also apply to the other characters, but I don't know if that'll be easy due to the deadline]
+    Monika's second page has also been updated to show her TSTF form, pulled directly from the Project Tailsonic wiki
+    SM64 CMO's page might be getting a showview label fix, as I'm now thoroughly using the "pygame.transform.scale" variable to fix image sizes
+  Music Page Updates:
+    The main music page will now show a new button in the top right, which will allow the user to filter the track order by a specific group. However, like some other things, this implementation might not fully be finished by the deadline
+  Vs. Tailsonic Page Updates:
+    The Music page in this menu is getting a significant update to actually be usable by the user, although currently only one track is available in the files
+    Icons will be added for main use on the Music page (also the first time Tailsonic's ORIGINAL icons from the very-early first-ever version of Vs. Tailsonic are getting used in-game)
+  Options Menu Updates:
+    Extras Menu Inclusion
+      This menu is currently /solely/ for the new Comic system implementation, which you might've saw the reveal of on my Instagram. It is currently still inaccessible until all the rest of the first comic's panels are digitized
+  Surface Labeling Updates:
+    Some surfaces, whether static text or button text, are getting a development color label, only if they're being worked on for the current update. Here's the label colors, and what they mean:
+      White: Fully usable/finished for current version
+      White (Low Opacity): Item is locked
+      Red: Not usable
+      Red (Low Opacity): Not usable, also locked
+      Yellow: Usable, but has unfinished content
+      Yellow (Low Opacity): Ditto, but locked
+    Red (Low Opacity) applies to the Extras menu surface at the moment, and Yellow is used on Vs. Tailsonic (Music), and Natsuki, Sayori, and Yuri's character pages.
+  Unused Content Updates:
+    I have tried to add an extra cursor to be in use on Monika's character page, but I currently don't wanna go through the hassle of programming a new cursor constant, so even though this cursor is partly coded, it is still considered unused.
+    I guess the new Loading animation is also considered unused, because I don't wanna put anything more in before the deadline, which is in 13 days from now /omo\
+    Anything that is in the files and code, but not fully implemented, will also be considered unused.
+  Things that I'm not really touching right now:
+    Ask Allo
+    Story Mode
+    These will probably be updated in a later update, which will probably be 0.1.4x.
+This is all I currently have to share. More will be provided later on.
+    
