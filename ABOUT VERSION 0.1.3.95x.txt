@@ -15,8 +15,8 @@ Tailsonic the Fox V0.1.3.95x includes:
 
 These are the main four that was mentioned a while ago. Now, onto the extra stuff that this update will also include:
   Bug/Programming Fixes:
-    Fixing the lack of false statements messing up the recursion limit (example: "main_running = False"
-    Fixing the lack of SaveState mentions when exiting the game on certain classes, which caused the changed background color to not save [I think. If this already worked in the Customization menu then it's just something that might not really matter as much]
+    Fixing the lack of false statements messing up the recursion limit (example: "main_running = False")
+    Fixing the lack of SaveState mentions when exiting the game on certain classes, which caused the changed background color to not save [I think. If this already worked in the Customization menu then it's just something that might not really matter as much] *This has officially been universally fixed
     ADDITIONAL UPDATE:
       The way all text surfaces (including buttons) are labeled is getting fixed to allow apostrophes ('). This was kinda messy earlier on as any spot I had in the text that needed this symbol would've been labeled as "[apost]".
       For example, here's an example code block:
