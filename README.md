@@ -27,7 +27,24 @@ pip install pygame
 
 This should automatically install Pygame within the Python interpreter.
 
-...anyway, that's all for now! See you again soon! :D
+**MARCH 26TH UPDATE**
+
+With versions 0.1.39x and later, pygame isn't the only module from Python that's used.
+
+Versions 0.1.39x and above are now also using:
+
+- json (used to handle stuff like saving and loading with the "save.json" file
+- os (Probably for some system-level stuff, and probably won't fully be used... YET...
+
+Also, the finished Developer build of version 0.1.3.95x, along with later Developer builds, will use three additional modules:
+
+- logging
+- atexit (Both of these are handling the new Log File system within the finished Dev release, as this was something exclusive I wanted to add here
+- sys (also being used primarily for logging right now)
+
+**PLEASE** make sure you have these modules in your Python version! This will make it easier to avoid decently-sized error problems when playing the game!
+
+Anyway, that's all for now! See you again soon! :D
 
 **If you want early access to the developer/release builds, shoot me an email saying that you'd like to playtest.**
 
