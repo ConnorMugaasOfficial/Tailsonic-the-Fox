@@ -44,6 +44,10 @@ Also, the finished Developer build of version 0.1.3.95x, along with later Develo
 
 **PLEASE** make sure you have these modules in your Python version! This will make it easier to avoid decently-sized error problems when playing the game!
 
+**UPDATE WITH THE LOGGING SYSTEM**
+
+The logging system will also still be included in Release builds as well, but it will act a little bit different, probably just in labeling. That being said, the modules required for this system will be needed for both types of builds.
+
 Anyway, that's all for now! See you again soon! :D
 
 **If you want early access to the developer/release builds, shoot me an email saying that you'd like to playtest.**
